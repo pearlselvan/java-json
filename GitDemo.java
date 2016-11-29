@@ -10,8 +10,8 @@ public class GitDemo
 		System.out.println("Third commit");
 		System.out.println("Fourth commit and again");
 		System.out.println("Fifth commit");
-		// commit
-		// commit
+		// commit -1 
+		// commit -2
     }
 
 }
