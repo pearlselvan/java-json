@@ -12,6 +12,9 @@ public class GitDemo
 		System.out.println("Fifth commit");
 		// commit -1 
 		// commit -2
+				// commit -3
+								// commit -4
+										// commit -5
     }
 
 }
