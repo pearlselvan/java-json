@@ -1,1 +1,2 @@
 use mac p4 merge added from readme branch
+step 2 added
